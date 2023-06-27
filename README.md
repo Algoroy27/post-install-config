@@ -61,4 +61,14 @@ Next, we need to configure teams. Teams are important when special tickets come 
 
 Here I created a level 2 support team.
 
+Now we need to allow anyone to create a ticket 
+
+![image](https://github.com/Algoroy27/post-install-config/assets/137920855/1b089faf-27b2-4970-a903-00a77039e93d)
+
+
+Let's add some agents to our help desk system
+
+![image](https://github.com/Algoroy27/post-install-config/assets/137920855/52e7d46d-48f3-4470-91ea-2f0eb4f6a4d4)
+
+When adding agents you can assign them roles and permissions. 
 
