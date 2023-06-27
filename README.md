@@ -79,4 +79,18 @@ To add users we need to click on the agent view and then select the user tab.
 
 ![image](https://github.com/Algoroy27/post-install-config/assets/137920855/937b5279-e22c-4cb9-bed9-e0e9de9497ab)
 
+Configuring SLA is the next important step. SLAs are service-level agreements.  The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed. SLA Plans can be created by going to the Admin Panel > Manage > SLA Plans. Click on the top right of the table to “Add New SLA Plan. 
+
+![image](https://github.com/Algoroy27/post-install-config/assets/137920855/292cbfd4-59ed-460f-81d4-d64dbf531425)
+
+NOTE:
+Sev-A (1 hour, 24/7)
+Sev-B (4 hours, 24/7)
+Sev-C (8 hours, business hours)
+
+Finally Help Topics: help topics can help categorize the kind of ticket that is being submitted. It makes it easier to prioritize certain tickets based on the SLA 
+
+![image](https://github.com/Algoroy27/post-install-config/assets/137920855/97b72ffa-d0ca-42e9-9ccb-c013c70af565)
+
+<h1>Congrats you have successfully configured os Tickets </h1>
 
