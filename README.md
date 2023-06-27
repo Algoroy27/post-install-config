@@ -6,9 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,19 +19,20 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Allow anyone to create tickets
+- Configure Agents(workers)
+- Configure Users(Customers)
+- Configure SLA
+- Configure Help Topics 
 
 <h2>Configuration Steps</h2>
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When setting up osTicket by default you are the Admin user. The Admin panel is where you have root-like controls over the entire system. The agent panel is a user of the ticketing system, you can think of an agent as the workers, the people who are going to work the tickets that are being submitted by end users as well as other staff members. NOTE: As you can see in the top right corner you know the view is Admin because you see the option to view in the Agent window.  
 </p>
 <br />
 
