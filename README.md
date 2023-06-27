@@ -36,18 +36,24 @@ When setting up osTicket by default you are the Admin user. The Admin panel is w
 </p>
 <br />
 
+![image](https://github.com/Algoroy27/post-install-config/assets/137920855/e7ccc97e-0f1c-4d2c-964a-51869076b070)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Configuring roles. Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access. An unlimited number of roles can be created and assigned to Agents with access to various departments.
 </p>
 <br />
 
+![image](https://github.com/Algoroy27/post-install-config/assets/137920855/f54bb3f4-0fea-4301-bbf8-3c7c222c06db)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Here we created a super Admin that has permission to everything within the platform. Next, we are going to configure some departments. As you can see we have created a Sys Admin department, along with a Break Glass Department.  
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+![image](https://github.com/Algoroy27/post-install-config/assets/137920855/aae975ee-f9a3-40aa-a09f-e0e3ea5e02ec)
+
+![image](https://github.com/Algoroy27/post-install-config/assets/137920855/1afcc109-53fc-40c5-a7f2-52c5eca41d66)
+
+<br>
+
+
+
