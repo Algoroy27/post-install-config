@@ -54,6 +54,11 @@ Here we created a super Admin that has permission to everything within the platf
 ![image](https://github.com/Algoroy27/post-install-config/assets/137920855/1afcc109-53fc-40c5-a7f2-52c5eca41d66)
 
 <br>
+Next, we need to configure teams. Teams are important when special tickets come into the queue. There may be keep personnel that is needed to handle tickets that may require a level 2 helpdesk tech to solve or there are certain teams that have to be formed that span across different departments and their input is needed to meet requirements. 
 
+![image](https://github.com/Algoroy27/post-install-config/assets/137920855/19e783f7-d59e-477f-9ec7-e0ba8457b0b5)
+
+
+Here I created a level 2 support team.
 
 
