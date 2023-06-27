@@ -70,5 +70,13 @@ Let's add some agents to our help desk system
 
 ![image](https://github.com/Algoroy27/post-install-config/assets/137920855/52e7d46d-48f3-4470-91ea-2f0eb4f6a4d4)
 
-When adding agents you can assign them roles and permissions. 
+When adding agents you can assign them roles and permissions as well as what team you want them on. 
+
+Next, we going to add users to our help desk system, they are essentially the customers of the platform, different employees from various departments
+
+
+To add users we need to click on the agent view and then select the user tab.
+
+![image](https://github.com/Algoroy27/post-install-config/assets/137920855/937b5279-e22c-4cb9-bed9-e0e9de9497ab)
+
 
